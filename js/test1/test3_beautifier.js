@@ -31,6 +31,6 @@ $.fn.myPlugin = function(options) {
 $(function(){
     $('a').myPlugin({
         'color': '#2b9969',
-        'fontSize': '20px'
+        'fontSize': '10px'
     });
 })
