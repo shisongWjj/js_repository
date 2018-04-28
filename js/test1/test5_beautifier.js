@@ -89,6 +89,7 @@
             });
         }
     }
+
     //在插件中使用Beautifier对象
     $.fn.myPlugin = function(options) {
         //创建Beautifier的实体
